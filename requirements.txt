@@ -6,3 +6,4 @@ tqdm==4.66.3
 python-dotenv==1.0.0
 openai>=0.28.0
 tiktoken
+jupyterlab>=4.4.8 # not directly required, pinned by Snyk to avoid a vulnerability
