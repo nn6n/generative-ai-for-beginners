@@ -6,3 +6,4 @@ tqdm==4.66.3
 python-dotenv==1.0.0
 openai>=0.28.0
 tiktoken
+pillow>=12.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
